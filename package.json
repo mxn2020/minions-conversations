@@ -1,7 +1,7 @@
 {
     "name": "minions-conversations-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Email threads, reply parsing, intent detection, and escalation triggers",
     "type": "module",
     "license": "MIT",
