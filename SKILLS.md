@@ -1,6 +1,12 @@
 ---
 name: minions-conversations
-description: Email threads, reply parsing, intent detection, and escalation triggers
+id: OC-0120
+version: 1.0.0
+description: "Email threads, reply parsing, intent detection, and escalation triggers"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-conversations — Agent Skills
