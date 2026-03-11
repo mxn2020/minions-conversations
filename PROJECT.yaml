@@ -1,0 +1,15 @@
+name: minions-conversations-workspace
+project_scope: main
+project_type: monorepo
+description: "Email threads, reply parsing, intent detection, and escalation triggers"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-conversations"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, conversations]
+notes: null
+id: d4911ecf-66bc-46f7-b03e-8547f93f8687

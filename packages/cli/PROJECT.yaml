@@ -1,0 +1,8 @@
+name: "@minions-conversations/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-conversations-workspace
+description: "CLI for minions-conversations — Email threads, reply parsing, intent detection, and escalation triggers"
+priority: high
+deploy_url: null
+tags: null

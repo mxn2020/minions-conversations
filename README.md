@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-conversations-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-conversations
 
 **Email threads, reply parsing, intent detection, and escalation triggers**
