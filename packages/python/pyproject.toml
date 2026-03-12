@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-conversations"
-version = "0.1.0"
+version = "0.2.0"
 description = "Email threads, reply parsing, intent detection, and escalation triggers"
 readme = "README.md"
 license = { text = "MIT" }
